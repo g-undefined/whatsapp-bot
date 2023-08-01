@@ -45,7 +45,7 @@
 <p>Abra o CMD/Terminal na onde você quer clonar/baixar o BOT e execute o comando:</p>
 
 ```
-git clone https://github.com/dreynus/service-bot.git
+git clone https://github.com/g-undefined/whatsapp-bot.git
 ```
 
 <h2 align="left">2. Instale as dependências:</h2>
