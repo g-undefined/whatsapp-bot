@@ -81,7 +81,4 @@ npm start
 
 <h2 align="left">4. Créditos: Bibliotecas Utilizadas</h2>
 
-* [`open-wa/wa-automate-nodejs`](https://github.com/open-wa/wa-automate-nodejs)
-* [`Marak/colors.js`](https://github.com/marak/colors.js/)
-
 <!-- https://media.giphy.com/media/9yRMxLuRqyQ0x3jJXD/giphy.webp -->
